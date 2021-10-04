@@ -15,3 +15,4 @@ Configuration and tooling I use in my development environment
   - oh my zsh
   - zsh plugins
 - github desktop
+- Raycast
