@@ -16,3 +16,4 @@ Configuration and tooling I use in my development environment
   - zsh plugins
 - github desktop
 - Raycast
+- JetBrains Mono
